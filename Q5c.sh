@@ -1,8 +1,5 @@
 #!/bin/bash
 read string
-output=$(rev<<<"${string}")
-echo "$output"
-echo $string | tr 'a-zA-Z' 'b-zA-Za'
 reverse=""
 len=${#string}
 idx=$((len/2))
