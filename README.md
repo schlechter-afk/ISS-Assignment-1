@@ -5,26 +5,24 @@ ISS ASSIGNMENT - 1
 Git Repository- https://github.com/pfiffig/ISS_ASS_1
 ```
 # ***Question 1 :***
-### **Part A**
+
 ```
-$ chmod +x Q1a.sh
-$ ./Q1a.sh
-```
-### **Part B**
-```
-$ chmod +x Q1b.sh
-$ ./Q1b.sh
+$ chmod +x q1.sh
+$ ./q1.sh
 ```
 # ***Question 2 :***
 ```
-$ chmod +x Q2.sh
-$ ./Q2.sh
+$ chmod +x q2.sh
+$ ./q2.sh
+
 Output will be redirected to a file called speech.txt
 ```
 # ***Question 3 :***
 ```
-$ chmod +x Q3.sh
-$ ./Q3.sh file.txt
+$ chmod +x q3.sh
+$ ./q3.sh file.txt
+
+
 -> file.txt is the file on which the required operations are to be performed.
 -> If file name is quotes.txt write ($ ./Q3.sh quotes.txt) in bash shell to see the output being printed on terminal.
 -> For part e:
@@ -34,23 +32,12 @@ then the number of repetitions of the hello and Swayam would be 2 and that of Ag
 ```
 # ***Question 4 :***
 ```
-$ chmod +x Q4.sh
-$ ./Q4.sh
+$ chmod +x q4.sh
+$ ./q4.sh
 ```
 # ***Question 5 :***
-### **Part A**
 ```
-$ chmod +x Q5a.sh
-$ ./Q5a.sh
+$ chmod +x q5.sh
+$ ./q5.sh
 Enter input string.
-```
-### **Part B**
-```
-$ chmod +x Q5b.sh
-$ ./Q5b.sh
-```
-### **Part C**
-```
-$ chmod +x Q5c.sh
-$ ./Q5c.sh
 ```
