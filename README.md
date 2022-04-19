@@ -2,7 +2,7 @@
 ISS ASSIGNMENT - 1
 ```
 ```
-Git Repository- https://github.com/pfiffig/ISS_ASS_1
+Git Repository- https://github.com/pfiffig/ISS-Assignment-1
 ```
 # ***Question 1 :***
 
